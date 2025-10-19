@@ -1,1 +1,1 @@
-https://github.com/PeterGriffer/ono-tebe-nado-fd
+https://github.com/PeterGriffer/ono-tebe-nado-ad
